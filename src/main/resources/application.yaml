@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ranker-api
+  docker:
+    compose:
+      file: docker-compose.yaml
